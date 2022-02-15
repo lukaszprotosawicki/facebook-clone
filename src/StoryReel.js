@@ -25,6 +25,11 @@ function StoryReel() {
         profileSrc="https://cdn-icons-png.flaticon.com/512/147/147144.png"
         title="tiroretti"
       />
+      <Story
+        image="https://avatarfiles.alphacoders.com/162/162138.jpg"
+        profileSrc="https://cdn-icons-png.flaticon.com/512/147/147144.png"
+        title="tiroretti"
+      />
     </div>
   );
 }
