@@ -14,16 +14,16 @@ function MessageSender() {
     <div className="messageSender">
       <div className="messageSender__top">
         <Avatar />
-        <from>
+        <form>
           <input
             className="messageSender__input"
-            placeholder={`What's on your mind`}
+            placeholder={`What's on your mind?`}
           />
           <input placeholder="image URL (Optional)" />
           <button onClick={handleSubmit} type="submit">
             Hidden submit
           </button>
-        </from>
+        </form>
       </div>
       <div className="messageSender__bottom">
         <div className="messageSender__option">
